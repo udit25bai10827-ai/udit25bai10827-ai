@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Udit Sharma 👋
 
-<!--
-**udit25bai10827-ai/udit25bai10827-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 B.tech CSE(AI,ML) Student at Vit University
+* 💡 Passionate about Artificial Intelligence and Machine Learning
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+
+* Master advanced programming concepts in Python and C++
+* Build projects that bridge software logic and hardware
+* Grow my YouTube channel with animated comedy videos
+
+--------------------------------------------------------------------
+
+### ⚙️ Currently Learning
+
+* Deep Learning with Python
+* C++ Programming
+* Web Development
+* Multivariable Calculus
+
+---------------------------------------------------------------------
+
+### 📫 Connect with me
+
+* LinkedIn: www.linkedin.com/in/udit-sharma-174843365
+* GitHub: https://github.com/your-udit25bai10827-ai
+---------------------------------------------------------------------
+
